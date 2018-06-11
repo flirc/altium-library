@@ -9,3 +9,6 @@ DB/altium_library/.vs/*
 DB/*.accdb
 *.user
 Management/*
+.DS_Store
+*.swp
+*.swo
