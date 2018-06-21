@@ -3,6 +3,7 @@ CREATE VIEW [dbo].[Connector - Rectangular]
 AS
 SELECT        
 	PartId,
+	PartNumber,
 	Comment,
 	MfrPartNo AS [Part Number],
 	Manufacturer,

@@ -3,6 +3,7 @@
 CREATE VIEW [dbo].[Test Point]
 AS
 SELECT        TOP (100) PERCENT PartId,
+	PartNumber,
 	Value,
 	Comment,
 	MfrPartNo AS [Part Number],

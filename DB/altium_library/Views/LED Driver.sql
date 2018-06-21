@@ -2,7 +2,8 @@
 
 CREATE VIEW [dbo].[LED Driver]
 AS
-SELECT        PartId, 
+SELECT        PartId,
+PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 

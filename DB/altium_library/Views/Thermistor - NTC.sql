@@ -1,5 +1,6 @@
 ﻿CREATE VIEW [dbo].[Thermistor - NTC] AS
 SELECT PartId,
+       PartNumber,
        Value,
        [Comment],
        MfrPartNo AS [Part Number],

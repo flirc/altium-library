@@ -1,6 +1,7 @@
 ﻿CREATE VIEW [dbo].[Sensor - IR]
 AS
 SELECT        PartId, 
+    PartNumber,
 	Value,
 	Comment,
 	MfrPartNo AS [Part Number],

@@ -3,6 +3,7 @@ CREATE VIEW [dbo].[Connector - Barrier Block]
 AS
 SELECT
   PartId,
+  PartNumber,
   Comment,
   MfrPartNo AS [Part Number],
   Manufacturer,

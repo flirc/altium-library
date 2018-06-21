@@ -2,7 +2,8 @@
 CREATE VIEW [dbo].[Diode - TVS]
 AS
 SELECT        
-PartId, 
+PartId,
+PartNumber,
 Comment, 
 MfrPartNo AS [Part Number], 
 Manufacturer, 

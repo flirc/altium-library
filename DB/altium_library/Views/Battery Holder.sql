@@ -1,7 +1,8 @@
 ﻿
 CREATE VIEW [dbo].[Battery Holder]
 AS
-SELECT        PartId, 
+SELECT        PartId,
+PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 

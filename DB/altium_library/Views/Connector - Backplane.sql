@@ -4,6 +4,7 @@ CREATE VIEW [dbo].[Connector - Backplane]
 AS
 SELECT        
 	PartId,
+	PartNumber,
 	Comment,
 	MfrPartNo AS [Part Number],
 	Manufacturer,

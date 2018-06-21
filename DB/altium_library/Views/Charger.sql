@@ -2,7 +2,7 @@
 
 CREATE VIEW [dbo].[Charger]
 AS
-SELECT        TOP (100) PERCENT PartId,
+SELECT        TOP (100) PERCENT PartId, PartNumber,
 	Value,
 	Comment,
 	MfrPartNo AS [Part Number],

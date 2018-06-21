@@ -1,7 +1,7 @@
 ﻿
 CREATE VIEW [dbo].[Connector - Modular w/Magnetics]
 AS
-SELECT        PartId, 
+SELECT        PartId, PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 

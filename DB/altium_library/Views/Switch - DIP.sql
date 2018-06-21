@@ -2,6 +2,7 @@
 
 CREATE VIEW [dbo].[Switch - DIP] AS
 SELECT TOP (100) PERCENT PartId,
+       PartNumber,
        Value,
        COMMENT,
        MfrPartNo AS [Part Number],

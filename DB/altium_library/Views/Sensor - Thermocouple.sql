@@ -3,6 +3,7 @@
 CREATE VIEW [dbo].[Sensor - Thermocouple]
 AS
 SELECT        TOP (100) PERCENT PartId,
+    PartNumber,
 	Value,
 	Comment,
 	MfrPartNo AS [Part Number],

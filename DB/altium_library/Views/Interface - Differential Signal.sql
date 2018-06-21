@@ -3,6 +3,7 @@ CREATE VIEW [dbo].[Interface - Differential Signal]
 AS
 SELECT TOP (100) PERCENT
   PartId,
+  PartNumber,
   Value,
   Comment,
   MfrPartNo AS [Part Number],

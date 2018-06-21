@@ -2,7 +2,8 @@
 
 CREATE VIEW [dbo].[Interface - RS485]
 AS
-SELECT  PartId, 
+SELECT  PartId,
+PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 

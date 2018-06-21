@@ -2,7 +2,8 @@
 
 CREATE VIEW [dbo].[RF Antenna]
 AS
-SELECT        PartId, 
+SELECT        PartId,
+PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 

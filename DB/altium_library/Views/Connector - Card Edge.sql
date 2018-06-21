@@ -3,6 +3,7 @@ CREATE VIEW [dbo].[Connector - Card Edge]
 AS
 SELECT        
 	PartId,
+	PartNumber,
 	Comment,
 	Value,
 	MfrPartNo AS [Part Number],

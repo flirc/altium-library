@@ -1,7 +1,8 @@
 ﻿
 CREATE VIEW [dbo].[Video]
 AS
-SELECT        PartId, 
+SELECT        PartId,
+PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 

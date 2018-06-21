@@ -1,7 +1,8 @@
 ﻿
 CREATE VIEW [dbo].[RF Filter]
 AS
-SELECT        PartId, 
+SELECT        PartId,
+PartNumber,
 Value, 
 Comment, 
 MfrPartNo AS [Part Number], 
