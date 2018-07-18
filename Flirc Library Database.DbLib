@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=FILE NAME=\\Mac\Home\Desktop\hw-main\libraries\Flirc Library Database.udl
+ConnectionString=FILE NAME=Z:\Projects\flirc\hw-main\libraries\Flirc Library Database.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
