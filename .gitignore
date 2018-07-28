@@ -12,3 +12,5 @@ Management/*
 .DS_Store
 *.swp
 *.swo
+Flirc Library Database.DbLib
+DB/aligni.mdb
