@@ -1,0 +1,718 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=FILE NAME=C:\Users\Jason Kotzin\Documents\hw-main\libraries\Flirc Library Database.udl
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=ADC - Programmable
+[Table1]
+SchemaName=
+TableName=ADC - Programmable
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Audio - Amplifier
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Battery Holder
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Button - Push
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=Button - Slide
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=Button - Tactile
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=Capacitor - Aluminium
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=Capacitor - Aluminium Polymer
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=Capacitor - Aluminium TH
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=Capacitor - Aluminium TH RA
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=Capacitor - Ceramic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=Capacitor - RF
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table13]
+SchemaName=
+TableName=Capacitor - Tantalum
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=Capacitor - Tantalum Polymer
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=Charger
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=Chip LED
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=Components
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table18]
+SchemaName=
+TableName=Connector - Backplane
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=Connector - Barrier Block
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table20]
+SchemaName=
+TableName=Connector - Card Edge
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table21]
+SchemaName=
+TableName=Connector - Dev Board
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table22]
+SchemaName=
+TableName=Connector - Modular
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table23]
+SchemaName=
+TableName=Connector - Modular w/Magnetics
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table24]
+SchemaName=
+TableName=Connector - RF
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table25]
+SchemaName=
+TableName=Connector - Rectangular
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table26]
+SchemaName=
+TableName=Connector - SD
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table27]
+SchemaName=
+TableName=Connector - Terminal Block
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table28]
+SchemaName=
+TableName=Connector - USB
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table29]
+SchemaName=
+TableName=DefaultMappings
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table30]
+SchemaName=
+TableName=Digital Isolator
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table31]
+SchemaName=
+TableName=Digital to Analogue Converter
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table32]
+SchemaName=
+TableName=Diode - Rectifier
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table33]
+SchemaName=
+TableName=Diode - TVS
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table34]
+SchemaName=
+TableName=Ferrite Chip
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table35]
+SchemaName=
+TableName=Gate Driver
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table36]
+SchemaName=
+TableName=Inductor - Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table37]
+SchemaName=
+TableName=Inductor - RF
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table38]
+SchemaName=
+TableName=Interface - CAN
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table39]
+SchemaName=
+TableName=Interface - Differential Signal
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table40]
+SchemaName=
+TableName=Interface - Ethernet
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table41]
+SchemaName=
+TableName=Interface - RS485
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table42]
+SchemaName=
+TableName=LCD Display - Graphic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table43]
+SchemaName=
+TableName=LED Driver
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table44]
+SchemaName=
+TableName=Light Pipe
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table45]
+SchemaName=
+TableName=MCU - ARM
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table46]
+SchemaName=
+TableName=MCU - AVR
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table47]
+SchemaName=
+TableName=Memory - EEPROM
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table48]
+SchemaName=
+TableName=Memory - FLASH
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table49]
+SchemaName=
+TableName=Motor Driver - Controller
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table50]
+SchemaName=
+TableName=Motor Driver - Stepper
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table51]
+SchemaName=
+TableName=Mounting Bracket
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table52]
+SchemaName=
+TableName=Multiplexer
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table53]
+SchemaName=
+TableName=N-Channel Dual FET Array
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table54]
+SchemaName=
+TableName=N-Channel FET
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table55]
+SchemaName=
+TableName=Optoisolator
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table56]
+SchemaName=
+TableName=Oscillator - Crystal
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table57]
+SchemaName=
+TableName=Oscillator - MEMS
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table58]
+SchemaName=
+TableName=Oscillator - TCXO
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table59]
+SchemaName=
+TableName=Oscillator - VCTCXO
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table60]
+SchemaName=
+TableName=Oscillator - XO
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table61]
+SchemaName=
+TableName=P-Channel Dual FET Array
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table62]
+SchemaName=
+TableName=P-Channel FET
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table63]
+SchemaName=
+TableName=Power Module
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table64]
+SchemaName=
+TableName=RF Amplifier
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table65]
+SchemaName=
+TableName=RF Antenna
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table66]
+SchemaName=
+TableName=RF Attenuator
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table67]
+SchemaName=
+TableName=RF Detector
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table68]
+SchemaName=
+TableName=RF Filter
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table69]
+SchemaName=
+TableName=RF Module
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table70]
+SchemaName=
+TableName=RF Switch
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table71]
+SchemaName=
+TableName=Reset Supervisor
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table72]
+SchemaName=
+TableName=Resistor - Chip
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table73]
+SchemaName=
+TableName=Resistor - Current Sense
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table74]
+SchemaName=
+TableName=Resistor - Potentiometer
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table75]
+SchemaName=
+TableName=Sensor - Current
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table76]
+SchemaName=
+TableName=Sensor - IR
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table77]
+SchemaName=
+TableName=Sensor - Magnetic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table78]
+SchemaName=
+TableName=Sensor - Motion
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table79]
+SchemaName=
+TableName=Sensor - Pressure
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table80]
+SchemaName=
+TableName=Sensor - Temperature
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table81]
+SchemaName=
+TableName=Sensor - Thermocouple
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table82]
+SchemaName=
+TableName=Switch - DIP
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table83]
+SchemaName=
+TableName=Test Point
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table84]
+SchemaName=
+TableName=Thermistor - NTC
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table85]
+SchemaName=
+TableName=Video
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table86]
+SchemaName=
+TableName=Voltage Reference
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table87]
+SchemaName=
+TableName=Voltage Regulator - Linear
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table88]
+SchemaName=
+TableName=Voltage Regulator - Switchmode
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=ADC - Programmable.Part Number|TableNameOnly=ADC - Programmable|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Audio - Amplifier.Part Number|TableNameOnly=Audio - Amplifier|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Battery Holder.Part Number|TableNameOnly=Battery Holder|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Button - Push.Part Number|TableNameOnly=Button - Push|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Button - Slide.Part Number|TableNameOnly=Button - Slide|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Button - Tactile.Part Number|TableNameOnly=Button - Tactile|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Capacitor - Aluminium.Part Number|TableNameOnly=Capacitor - Aluminium|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Capacitor - Aluminium Polymer.Part Number|TableNameOnly=Capacitor - Aluminium Polymer|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Capacitor - Aluminium TH.Part Number|TableNameOnly=Capacitor - Aluminium TH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Capacitor - Aluminium TH RA.Part Number|TableNameOnly=Capacitor - Aluminium TH RA|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Capacitor - Ceramic.Part Number|TableNameOnly=Capacitor - Ceramic|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Capacitor - RF.Part Number|TableNameOnly=Capacitor - RF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Capacitor - Tantalum.Part Number|TableNameOnly=Capacitor - Tantalum|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Capacitor - Tantalum Polymer.Part Number|TableNameOnly=Capacitor - Tantalum Polymer|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Charger.Part Number|TableNameOnly=Charger|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Chip LED.Part Number|TableNameOnly=Chip LED|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Connector - Backplane.Part Number|TableNameOnly=Connector - Backplane|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Connector - Barrier Block.Part Number|TableNameOnly=Connector - Barrier Block|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Connector - Card Edge.Part Number|TableNameOnly=Connector - Card Edge|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Connector - Dev Board.Part Number|TableNameOnly=Connector - Dev Board|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Connector - Modular.Part Number|TableNameOnly=Connector - Modular|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Connector - Modular w/Magnetics.Part Number|TableNameOnly=Connector - Modular w/Magnetics|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Connector - RF.Part Number|TableNameOnly=Connector - RF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Connector - Rectangular.Part Number|TableNameOnly=Connector - Rectangular|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Connector - SD.Part Number|TableNameOnly=Connector - SD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Connector - Terminal Block.Part Number|TableNameOnly=Connector - Terminal Block|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Connector - USB.Part Number|TableNameOnly=Connector - USB|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Digital Isolator.Part Number|TableNameOnly=Digital Isolator|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Digital to Analogue Converter.Part Number|TableNameOnly=Digital to Analogue Converter|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Diode - Rectifier.Part Number|TableNameOnly=Diode - Rectifier|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Diode - TVS.Part Number|TableNameOnly=Diode - TVS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Ferrite Chip.Part Number|TableNameOnly=Ferrite Chip|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Gate Driver.Part Number|TableNameOnly=Gate Driver|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Inductor - Power.Part Number|TableNameOnly=Inductor - Power|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Inductor - RF.Part Number|TableNameOnly=Inductor - RF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Interface - CAN.Part Number|TableNameOnly=Interface - CAN|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Interface - Differential Signal.Part Number|TableNameOnly=Interface - Differential Signal|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Interface - Ethernet.Part Number|TableNameOnly=Interface - Ethernet|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Interface - RS485.Part Number|TableNameOnly=Interface - RS485|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=LCD Display - Graphic.Part Number|TableNameOnly=LCD Display - Graphic|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=LED Driver.Part Number|TableNameOnly=LED Driver|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Light Pipe.Part Number|TableNameOnly=Light Pipe|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=MCU - ARM.Part Number|TableNameOnly=MCU - ARM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=MCU - AVR.Part Number|TableNameOnly=MCU - AVR|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Memory - EEPROM.Part Number|TableNameOnly=Memory - EEPROM|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Memory - FLASH.Part Number|TableNameOnly=Memory - FLASH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Motor Driver - Controller.Part Number|TableNameOnly=Motor Driver - Controller|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Motor Driver - Stepper.Part Number|TableNameOnly=Motor Driver - Stepper|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Mounting Bracket.Part Number|TableNameOnly=Mounting Bracket|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Multiplexer.Part Number|TableNameOnly=Multiplexer|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=N-Channel Dual FET Array.Part Number|TableNameOnly=N-Channel Dual FET Array|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=N-Channel FET.Part Number|TableNameOnly=N-Channel FET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Optoisolator.Part Number|TableNameOnly=Optoisolator|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Oscillator - Crystal.Part Number|TableNameOnly=Oscillator - Crystal|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Oscillator - MEMS.Part Number|TableNameOnly=Oscillator - MEMS|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Oscillator - TCXO.Part Number|TableNameOnly=Oscillator - TCXO|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Oscillator - VCTCXO.Part Number|TableNameOnly=Oscillator - VCTCXO|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Oscillator - XO.Part Number|TableNameOnly=Oscillator - XO|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=P-Channel Dual FET Array.Part Number|TableNameOnly=P-Channel Dual FET Array|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=P-Channel FET.Part Number|TableNameOnly=P-Channel FET|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Power Module.Part Number|TableNameOnly=Power Module|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=RF Amplifier.Part Number|TableNameOnly=RF Amplifier|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=RF Antenna.Part Number|TableNameOnly=RF Antenna|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=RF Attenuator.Part Number|TableNameOnly=RF Attenuator|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=RF Detector.Part Number|TableNameOnly=RF Detector|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=RF Filter.Part Number|TableNameOnly=RF Filter|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=RF Module.Part Number|TableNameOnly=RF Module|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=RF Switch.Part Number|TableNameOnly=RF Switch|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=Reset Supervisor.Part Number|TableNameOnly=Reset Supervisor|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=Resistor - Chip.Part Number|TableNameOnly=Resistor - Chip|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=Resistor - Current Sense.Part Number|TableNameOnly=Resistor - Current Sense|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=Resistor - Potentiometer.Part Number|TableNameOnly=Resistor - Potentiometer|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=Sensor - Current.Part Number|TableNameOnly=Sensor - Current|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=Sensor - IR.Part Number|TableNameOnly=Sensor - IR|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=Sensor - Magnetic.Part Number|TableNameOnly=Sensor - Magnetic|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=Sensor - Motion.Part Number|TableNameOnly=Sensor - Motion|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=Sensor - Pressure.Part Number|TableNameOnly=Sensor - Pressure|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=Sensor - Temperature.Part Number|TableNameOnly=Sensor - Temperature|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=Sensor - Thermocouple.Part Number|TableNameOnly=Sensor - Thermocouple|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=Switch - DIP.Part Number|TableNameOnly=Switch - DIP|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=Test Point.Part Number|TableNameOnly=Test Point|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=Thermistor - NTC.Part Number|TableNameOnly=Thermistor - NTC|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=Video.Part Number|TableNameOnly=Video|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=Voltage Reference.Part Number|TableNameOnly=Voltage Reference|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=Voltage Regulator - Linear.Part Number|TableNameOnly=Voltage Regulator - Linear|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=Voltage Regulator - Switchmode.Part Number|TableNameOnly=Voltage Regulator - Switchmode|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
